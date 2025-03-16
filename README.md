@@ -1,6 +1,6 @@
 # Embeded_development_for_robotics
 This repository was created to document Fei Zibeng's learning and achievements in embedded development for robotics，include stm32 and linux
-## linux jeston
+## linux jeston pycharm＋clion＋ssh or 连接屏幕 or 向日葵等远程投屏
 - [linux嵌入式教程](https://bootlin.com/training/embedded-linux/)
 - 对嵌入式Linux进一步学习，参考[Jetson Linux](https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/index.html)开发者指南
 - 最后学习[Isaac ROS](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common)，开发更复杂的机器人应用
@@ -31,6 +31,6 @@ This repository was created to document Fei Zibeng's learning and achievements i
 - 涵盖从Linux基础到深度学习部署的全流程
 - 课程结束可获得NVIDIA官方认证
 - 学习建议：从基础课程开始，这将连接您的深度学习知识与Jetson硬件平台，特别关注"硬件加速推理"部分，这是Jetson平台的核心优势。
-# STM32 利用freetos系统，主要使用DJI的A、C板
+# STM32 利用freetos系统，主要使用DJI的A、C板，keil5 or clion加cubemx
 ## [C板教程](https://github.com/RoboMaster/Development-Board-C-Examples/tree/master)
 ## [A板教程](https://github.com/RoboMaster/DevelopmentBoard-Examples/tree/master)
