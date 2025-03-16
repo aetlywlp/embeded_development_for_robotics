@@ -30,7 +30,7 @@ This repository was created to document Fei Zibeng's learning and achievements i
 - 提供完整的动手项目和实验代码
 - 涵盖从Linux基础到深度学习部署的全流程
 - 课程结束可获得NVIDIA官方认证
-学习建议：从基础课程开始，这将连接您的深度学习知识与Jetson硬件平台，特别关注"硬件加速推理"部分，这是Jetson平台的核心优势。
+- 学习建议：从基础课程开始，这将连接您的深度学习知识与Jetson硬件平台，特别关注"硬件加速推理"部分，这是Jetson平台的核心优势。
 # STM32 利用freetos系统，主要使用DJI的A、C板
 ## [C板教程](https://github.com/RoboMaster/Development-Board-C-Examples/tree/master))
 ## [A板教程](https://github.com/RoboMaster/DevelopmentBoard-Examples/tree/master)
